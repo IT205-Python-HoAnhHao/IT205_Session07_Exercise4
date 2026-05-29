@@ -46,8 +46,6 @@ B3: chạy vòng lặp duyệt qua từng phiếu đăng ký:
 B4: kết thúc chương trình sau khi duyệt hết số lượng phiếu đã nhập.
 """
 
-import email
-
 
 so_Luong_phieu = int(input("Nhập số lượng phiếu đăng ký cần xử lý: "))
 
